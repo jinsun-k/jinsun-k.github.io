@@ -1,3 +1,4 @@
+<p style="color: white;">Jinsun's Portfolio</p>
 ## Selected projects in data science, machine learning, and data visualization
 ***
 ### Purchase Signal Prediction Model
