@@ -1,5 +1,3 @@
-Jinsun's porfolio
-
 ## Selected projects in data science, machine learning, and data visualization
 ### Purchase Signal Prediction Model
 Developed a regression model using SQL and R to identify behaviors indicative of purchase on an eCommerce site. 
