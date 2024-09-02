@@ -9,3 +9,4 @@ Achieved 80% accuracy in prediction, supporting more effective targeted marketin
 ### Data Visualization Using Tableau
 Created a dashboard that tracks career earnings across various majors, highlighting how some non-STEM majors outpace their STEM counterparts in mid-career and beyond. 
 This visualization emphasizes again the value of pursuing one's passion! 
+![Alt text](/assets/Tableau_JK.png)
